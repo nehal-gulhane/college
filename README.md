@@ -1,4 +1,4 @@
 # college
 Testing my repository
 <br>
-Author - Nehaal
+Author - Nehaal Gulhane
